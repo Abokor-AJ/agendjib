@@ -27,10 +27,10 @@
                                 <li class="nav-item">
                                     <a class="nav-link" id="tab2" data-toggle="tab" href="#world-tab-2" role="tab" aria-controls="world-tab-2" aria-selected="false">Djib-Tonic Events</a>
                                 </li>
-
+                                <!--
                                 <li class="nav-item">
                                     <a class="nav-link" id="tab3" data-toggle="tab" href="#world-tab-3" role="tab" aria-controls="world-tab-3" aria-selected="false">Gueska Africa Fashion Show</a>
-                                </li>
+                                </li>-->
                                 <!--
                                 <li class="nav-item">
                                     <a class="nav-link" id="tab4" data-toggle="tab" href="#world-tab-4" role="tab" aria-controls="world-tab-4" aria-selected="false"></a>
@@ -82,24 +82,8 @@
                                         </div>
                                     </div>
 
-                                    <!-- Single Blog Post -->
-                                    <div class="single-blog-post post-style-4 d-flex align-items-center">
-                                        <!-- Post Thumbnail -->
-                                        <div class="post-thumbnail">
-                                            <a href="gueska-africa-fashion.php"><img src="img/blog-img/Gueska-Africa.png" alt=""></a>
-                                        </div>
-                                        <!-- Post Content -->
-                                        <div class="post-content">
-                                            <a href="gueska-africa-fashion.php" class="headline">
-                                                <h5>Gueska Africa Fashion Runway Show</h5>
-                                            </a>
-                                            <p><a href="gueska-africa-fashion.php" class="headline">Gueska Africa Fashion Show is a runway fashion show which was organized at the Moulk Center.</p></a>
-                                            <!-- Post Meta
-                                            <div class="post-meta">
-                                                <p><a href="#" class="post-author">Katy Liu</a> on <a href="#" class="post-date">Sep 29, 2017 at 9:48 am</a></p>
-                                            </div>-->
-                                        </div>
-                                    </div>
+                                    <!-- Single Blog Post Gueska Africa -->
+
                                 </div>
 
                                 <div class="tab-pane fade" id="world-tab-2" role="tabpanel" aria-labelledby="tab2">
@@ -142,26 +126,7 @@
                                   </div>
                                 </div>
 
-                                <div class="tab-pane fade" id="world-tab-3" role="tabpanel" aria-labelledby="tab3">
-                                  <!-- Single Blog Post -->
-                                  <div class="single-blog-post post-style-4 d-flex align-items-center">
-                                      <!-- Post Thumbnail -->
-                                      <div class="post-thumbnail">
-                                          <a href="gueska-africa-fashion.php"><img src="img/blog-img/Gueska-Africa.png" alt=""></a>
-                                      </div>
-                                      <!-- Post Content -->
-                                      <div class="post-content">
-                                          <a href="gueska-africa-fashion.php" class="headline">
-                                              <h5>Gueska Africa Fashion Runway Show</h5>
-                                          </a>
-                                          <p><a href="gueska-africa-fashion.php" class="headline">Gueska Africa Fashion Show is a runway fashion show which was organized at the Moulk Center.</p></a>
-                                          <!-- Post Meta
-                                          <div class="post-meta">
-                                              <p><a href="#" class="post-author">Katy Liu</a> on <a href="#" class="post-date">Sep 29, 2017 at 9:48 am</a></p>
-                                          </div>-->
-                                      </div>
-                                  </div>
-                                </div>
+                                <!-- Gueska Africa ShoW-->
 
                             </div>
                         </div>

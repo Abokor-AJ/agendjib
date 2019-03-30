@@ -15,11 +15,11 @@
                 <div class="footer-single-widget">
                     <ul class="footer-menu d-flex justify-content-between">
                         <li><a href="#">Home</a></li>
-                        <li><a href="#">Agenda</a></li>
-                        <li><a href="#">Galerie</a></li>
-                        <li><a href="#">Videos</a></li>
-                        <li><a href="#">Enterpreneurial</a></li>
-                        <li><a href="#">Contact</a></li>
+                        <li><a href="agenda.php">Agenda</a></li>
+                        <li><a href="galerie.php">Galerie</a></li>
+                        <li><a href="videos.php">Videos</a></li>
+                        <!--<li><a href="#">Enterpreneurial</a></li>-->
+                        <li><a href="contact.php">Contact</a></li>
                     </ul>
                 </div>
             </div>

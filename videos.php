@@ -25,7 +25,7 @@
                                 </li>
 
                                 <li class="nav-item">
-                                    <a class="nav-link" id="tab2" data-toggle="tab" href="#world-tab-2" role="tab" aria-controls="world-tab-2" aria-selected="false">Institut Francais (CCFAR)</a>
+                                    <a class="nav-link" id="tab2" data-toggle="tab" href="#world-tab-2" role="tab" aria-controls="world-tab-2" aria-selected="false">Institut Francais (IFD)</a>
                                 </li>
 
                                 <li class="nav-item">
@@ -71,7 +71,7 @@
                                         <div class="post-thumbnail">
                                             <img src="img/blog-img/gueska-africa-main.png" alt="">
                                             <!-- Video Button -->
-                                            <a href="https://www.youtube.com/watch?v=vOt7TG-_AoM" class="video-btn"><i class="fa fa-play"></i></a>
+                                            <a href="https://www.youtube.com/watch?v=DvThNH65uas" class="video-btn"><i class="fa fa-play"></i></a>
                                         </div>
                                         <!-- Post Content -->
                                         <div class="post-content">
@@ -118,7 +118,7 @@
                                       <div class="post-thumbnail">
                                           <img src="img/blog-img/gueska-africa-main.png" alt="">
                                           <!-- Video Button -->
-                                          <a href="https://www.youtube.com/watch?v=vOt7TG-_AoM" class="video-btn"><i class="fa fa-play"></i></a>
+                                          <a href="https://www.youtube.com/watch?v=DvThNH65uas" class="video-btn"><i class="fa fa-play"></i></a>
                                       </div>
                                       <!-- Post Content -->
                                       <div class="post-content">
@@ -134,26 +134,7 @@
                                   </div>
                                 </div>
 
-                                <div class="tab-pane fade" id="world-tab-4" role="tabpanel" aria-labelledby="tab4">
-                                    <!-- Single Blog Post -->
-                                    <div class="single-blog-post post-style-4 d-flex align-items-center">
-                                        <!-- Post Thumbnail -->
-                                        <div class="post-thumbnail">
-                                            <img src="img/blog-img/DERE.jpg" alt="">
-                                        </div>
-                                        <!-- Post Content -->
-                                        <div class="post-content">
-                                            <a href="#" class="headline">
-                                                <h5>One Man Talk Edition 2019: Potential Challenges of Entrepreneurship in Djibouti </h5>
-                                            </a>
-                                            <p>DERE offers an interactive platform for policymakers, business leaders, civil society, academics, activists and the Djiboutian diaspora around the world.</p>
-                                            <!-- Post Meta
-                                            <div class="post-meta">
-                                                <p><a href="#" class="post-author">Katy Liu</a> on <a href="#" class="post-date">Sep 29, 2017 at 9:48 am</a></p>
-                                            </div>-->
-                                        </div>
-                                    </div>
-                                </div>
+                                
 
                             </div>
                         </div>

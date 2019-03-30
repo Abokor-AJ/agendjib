@@ -12,13 +12,13 @@
         <!-- Hero Slides Area -->
         <div class="hero-slides owl-carousel">
             <!-- Single Slide -->
-            <div class="single-hero-slide bg-img background-overlay" style="background-image: url(img/blog-img/Djib_Tonic_MerRouge.jpg);"></div>
+            <div class="single-hero-slide bg-img background-overlay" style="background-image: url(img/blog-img/Autisme.jpg);"></div>
             <!-- Single Slide -->
-            <div class="single-hero-slide bg-img background-overlay" style="background-image: url(img/blog-img/Djib-Tonic-Acacias.jpg);"></div>
+            <div class="single-hero-slide bg-img background-overlay" style="background-image: url(img/blog-img/DERE5.jpg);"></div>
             <!-- Single Slide -->
-            <div class="single-hero-slide bg-img background-overlay" style="background-image: url(img/blog-img/Francophonie.jpg);"></div>
+            <div class="single-hero-slide bg-img background-overlay" style="background-image: url(img/blog-img/Djib-Tonic-original.jpg);"></div>
             <!-- Single Slide -->
-            <div class="single-hero-slide bg-img background-overlay" style="background-image: url(img/blog-img/fashion.jpg);"></div>
+            <div class="single-hero-slide bg-img background-overlay" style="background-image: url(img/blog-img/cinema.jpg);"></div>
         </div>
 
         <!-- Hero Post Slide -->
@@ -33,7 +33,7 @@
                                     <p>1</p>
                                 </div>
                                 <div class="post-title">
-                                    <a href="single-blog.html">Djib-Tonic Du Restaurant De La Mer Rouge</a>
+                                    <a href="#">Gala evening for World Autism Day</a>
                                 </div>
                             </div>
                             <!-- Single Slide -->
@@ -42,7 +42,7 @@
                                     <p>2</p>
                                 </div>
                                 <div class="post-title">
-                                    <a href="single-blog.html">Djib-Tonic De L'Hotel Alcacias</a>
+                                    <a href="#">DERE One Man Talk Edition 2019</a>
                                 </div>
                             </div>
                             <!-- Single Slide -->
@@ -51,7 +51,7 @@
                                     <p>3</p>
                                 </div>
                                 <div class="post-title">
-                                    <a href="single-blog.html">Semaine de la langue Francaise et de la Francophonie</a>
+                                    <a href="#">Djib'tonic XXI Ethiopian club</a>
                                 </div>
                             </div>
                             <!-- Single Slide -->
@@ -60,7 +60,7 @@
                                     <p>4</p>
                                 </div>
                                 <div class="post-title">
-                                    <a href="single-blog.html">Gueska Africa Fashion Show</a>
+                                    <a href="#">Cinema Persepolis Hosted by French Institute of Djibouti</a>
                                 </div>
                             </div>
                         </div>
@@ -81,31 +81,19 @@
                         <div class="world-catagory-area">
                             <ul class="nav nav-tabs" id="myTab" role="tablist">
                                 <li class="title">What's Trending</li>
+
+                                <li class="nav-item">
+                                    <a class="nav-link active" id="tab1" data-toggle="tab" href="#world-tab-1" role="tab" aria-controls="world-tab-1" aria-selected="true">Today's</a>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a class="nav-link" id="tab2" data-toggle="tab" href="#world-tab-2" role="tab" aria-controls="world-tab-2" aria-selected="false">Tomorrow's</a>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a class="nav-link" id="tab3" data-toggle="tab" href="#world-tab-3" role="tab" aria-controls="world-tab-3" aria-selected="false">After Tommorow's</a>
+                                </li>
                                 <!--
-                                <li class="nav-item">
-                                    <a class="nav-link active" id="tab1" data-toggle="tab" href="#world-tab-1" role="tab" aria-controls="world-tab-1" aria-selected="true">All</a>
-                                </li>
-
-                                <li class="nav-item">
-                                    <a class="nav-link" id="tab2" data-toggle="tab" href="#world-tab-2" role="tab" aria-controls="world-tab-2" aria-selected="false">Agenda</a>
-                                </li>
-
-                                <li class="nav-item">
-                                    <a class="nav-link" id="tab3" data-toggle="tab" href="#world-tab-3" role="tab" aria-controls="world-tab-3" aria-selected="false">Galerie</a>
-                                </li>
-
-                                <li class="nav-item">
-                                    <a class="nav-link" id="tab4" data-toggle="tab" href="#world-tab-4" role="tab" aria-controls="world-tab-4" aria-selected="false">Enterpreneurial</a>
-                                </li>-->
-                                <!--
-                                <li class="nav-item">
-                                    <a class="nav-link" id="tab5" data-toggle="tab" href="#world-tab-5" role="tab" aria-controls="world-tab-5" aria-selected="false">travel</a>
-                                </li>
-
-                                <li class="nav-item">
-                                    <a class="nav-link" id="tab6" data-toggle="tab" href="#world-tab-6" role="tab" aria-controls="world-tab-6" aria-selected="false">Gadgets</a>
-                                </li>
-
                                 <li class="nav-item dropdown">
                                     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">More</a>
                                     <div class="dropdown-menu">
@@ -127,19 +115,19 @@
                                                 <div class="single-blog-post">
                                                     <!-- Post Thumbnail -->
                                                     <div class="post-thumbnail">
-                                                        <img src="img/blog-img/Djib_Tonic_MerRouge.jpg" alt="">
+                                                        <img src="img/blog-img/Autisme.jpg" alt="Autism Pictue">
                                                         <!-- Catagory -->
-                                                        <div class="post-cta"><a href="djibtonic.php">Djib-Tonic</a></div>
+                                                        <div class="post-cta"><a href="#">Autism</a></div>
                                                     </div>
                                                     <!-- Post Content -->
                                                     <div class="post-content">
-                                                        <a href="djibtonic.php" class="headline">
-                                                            <h5>Djib-Tonic at the Restaurant De La Mer Rouge</h5>
+                                                        <a href="#" class="headline">
+                                                            <h5>Gala evening for World Autism Day</h5>
                                                         </a>
-                                                        <p>Djib-Tonic is a weekly social event which was organized this time at the Restaurant De La Mer Rouge.</p>
+                                                        <p>A gala evening organized by the association 'Vaincre L'Autisme' to support the schooling of autistic children in Djibouti. The ticket is 10.000DJF.</p>
                                                         <!-- Post Meta -->
                                                         <div class="post-meta">
-                                                            <p><a href="djibtonic.php" class="post-author">Fatouma-Saredo</a> on <a href="single-blog.php" class="post-date">Sep 29, 2017 at 9:48 am</a></p>
+                                                            <p><a href="#" class="post-author">Fatouma-Saredo</a> on <a href="#" class="post-date">Thursday April 4, 2019 at 7 PM – 10 PM</a></p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -148,19 +136,19 @@
                                                 <div class="single-blog-post">
                                                     <!-- Post Thumbnail -->
                                                     <div class="post-thumbnail">
-                                                        <img src="img/blog-img/fashion.jpg" alt="">
+                                                        <img src="img/blog-img/DERE1.jpg" alt="">
                                                         <!-- Catagory -->
-                                                        <div class="post-cta"><a href="#">Fashion Show</a></div>
+                                                        <div class="post-cta"><a href="#">DERE Talk</a></div>
                                                     </div>
                                                     <!-- Post Content -->
                                                     <div class="post-content">
                                                         <a href="#" class="headline">
-                                                            <h5>Gueska Africa Fashion Show</h5>
+                                                            <h5>DERE One Man Talk Edition 2019</h5>
                                                         </a>
-                                                        <p>Gueska Africa Fashion Show is a runway fashion show which was organized at the Moulk Center</p>
+                                                        <p>DERE offers an interactive platform for business leaders, civil society, academics, activists and the Djiboutian diaspora around the world.</p>
                                                         <!-- Post Meta -->
                                                         <div class="post-meta">
-                                                            <p><a href="#" class="post-author">Mouna Ladieh</a> on <a href="single-blog.php" class="post-date">Sep 29, 2017 at 9:48 am</a></p>
+                                                            <p><a href="#" class="post-author">Mouna Ladieh</a> on <a href="single-blog.php" class="post-date">March 31, 2019 at 8:00 am</a></p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -169,19 +157,19 @@
                                                 <div class="single-blog-post">
                                                     <!-- Post Thumbnail -->
                                                     <div class="post-thumbnail">
-                                                        <img src="img/blog-img/Francophonie.jpg" alt="">
+                                                        <img src="img/blog-img/Beach-Party-Kem.jpg" alt="">
                                                         <!-- Catagory -->
-                                                        <div class="post-cta"><a href="#">Francophonie</a></div>
+                                                        <div class="post-cta"><a href="#">Beach Party</a></div>
                                                     </div>
                                                     <!-- Post Content -->
                                                     <div class="post-content">
                                                         <a href="#" class="headline">
-                                                            <h5>Semaine de la langue Francaise et de la Francophonie</h5>
+                                                            <h5>Beach Party Hosted by Djibouti Palace Kempinski</h5>
                                                         </a>
-                                                        <p>C'est la Semaine de la langue Francaise et de la Francophonie held at the French Institut of Djibouti.</p>
+                                                        <p>Join us for our Beach Party and party until the early morning under the gorgeous stars.</p>
                                                         <!-- Post Meta -->
                                                         <div class="post-meta">
-                                                            <p><a href="#" class="post-author">Fatouma-Saredo</a> on <a href="#" class="post-date">Mar 21, 2019 at 20:00 pm</a></p>
+                                                            <p><a href="#" class="post-author">Fatouma-Saredo</a> on <a href="#" class="post-date">Thursday, April 4, 2019 at 10 PM – 4 AM</a></p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -202,7 +190,7 @@
                                                         <p>There will be a dancing party animated by our DJ at the Restaurant de la Mer Rouge On Thursday 4th, March.</p>
                                                         <!-- Post Meta -->
                                                         <div class="post-meta">
-                                                            <p><a href="#" class="post-author">Fatouma-Saredo</a> on <a href="#" class="post-date">Mar 21, 2019 at 20:00 pm</a></p>
+                                                            <p><a href="#" class="post-author">Fatouma-Saredo</a> on <a href="#" class="post-date">Mar 28, 2019 at 20:00 pm</a></p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -215,16 +203,16 @@
                                             <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.2s">
                                                 <!-- Post Thumbnail -->
                                                 <div class="post-thumbnail">
-                                                    <img src="img/blog-img/Djib_Tonic_MerRouge.jpg" alt="">
+                                                    <img src="img/blog-img/Autisme.jpg" alt="">
                                                 </div>
                                                 <!-- Post Content -->
                                                 <div class="post-content">
                                                     <a href="#" class="headline">
-                                                        <h5>Djib-Tonic at the Restaurant De La Mer Rouge.</h5>
+                                                        <h5>Gala evening for World Autism Day</h5>
                                                     </a>
                                                     <!-- Post Meta -->
                                                     <div class="post-meta">
-                                                        <p><a href="#" class="post-author">Fatouma-Saredo</a> on <a href="#" class="post-date">Sep 29, 2017 at 9:48 am</a></p>
+                                                        <p><a href="#" class="post-author">Fatouma-Saredo</a> on <a href="#" class="post-date">Thursday April 4, 2019 at 7 PM – 10 PM</a></p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -233,16 +221,16 @@
                                             <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.3s">
                                                 <!-- Post Thumbnail -->
                                                 <div class="post-thumbnail">
-                                                    <img src="img/blog-img/fashion.jpg" alt="">
+                                                    <img src="img/blog-img/DERE1.jpg" alt="">
                                                 </div>
                                                 <!-- Post Content -->
                                                 <div class="post-content">
                                                     <a href="#" class="headline">
-                                                        <h5>Gueska Africa Fashion Show.</h5>
+                                                        <h5>DERE One Man Talk Edition 2019</h5>
                                                     </a>
                                                     <!-- Post Meta -->
                                                     <div class="post-meta">
-                                                        <p><a href="#" class="post-author">Fatouma-Saredo</a> on <a href="#" class="post-date">Sep 29, 2017 at 9:48 am</a></p>
+                                                        <p><a href="#" class="post-author">Mouna Ladieh</a> on <a href="#" class="post-date">March 31, 2019 at 8:00 am</a></p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -251,16 +239,16 @@
                                             <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.4s">
                                                 <!-- Post Thumbnail -->
                                                 <div class="post-thumbnail">
-                                                    <img src="img/blog-img/Francophonie.jpg" alt="">
+                                                    <img src="img/blog-img/Beach-Party-Kem.jpg" alt="">
                                                 </div>
                                                 <!-- Post Content -->
                                                 <div class="post-content">
                                                     <a href="#" class="headline">
-                                                        <h5>Semaine de la langue Francaise et de la Francophonie</h5>
+                                                        <h5>Beach Party Hosted by Djibouti Palace Kempinski</h5>
                                                     </a>
                                                     <!-- Post Meta -->
                                                     <div class="post-meta">
-                                                        <p><a href="#" class="post-author">Mouna Ladieh</a> on <a href="#" class="post-date">Sep 29, 2017 at 9:48 am</a></p>
+                                                        <p><a href="#" class="post-author">Mouna Ladieh</a> on <a href="#" class="post-date">Thursday, April 4, 2019 at 10 PM – 4 AM</a></p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -269,16 +257,16 @@
                                             <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.5s">
                                                 <!-- Post Thumbnail -->
                                                 <div class="post-thumbnail">
-                                                    <img src="img/blog-img/b13.jpg" alt="">
+                                                    <img src="img/blog-img/MerRouge.jpg" alt="">
                                                 </div>
                                                 <!-- Post Content -->
                                                 <div class="post-content">
                                                     <a href="#" class="headline">
-                                                        <h5>How Did van Gogh’s Turbulent Mind Depict One of the Most</h5>
+                                                        <h5>A Dancing Party Animated by our DJ.</h5>
                                                     </a>
                                                     <!-- Post Meta -->
                                                     <div class="post-meta">
-                                                        <p><a href="#" class="post-author">Katy Liu</a> on <a href="#" class="post-date">Sep 29, 2017 at 9:48 am</a></p>
+                                                        <p><a href="#" class="post-author">Fatouma-Saredo</a> on <a href="#" class="post-date">Mar 28, 2019 at 20:00 pm</a></p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -297,24 +285,26 @@
                <!--  ========== End Of Sidebar Area === -->
             </div>
 
+            <!-- RESERVED PLACE FOR ADS -->
+
             <div class="row justify-content-center">
                 <!-- ========== Single Blog Post ========== -->
                 <div class="col-12 col-md-6 col-lg-4">
                     <div class="single-blog-post post-style-3 mt-50 wow fadeInUpBig" data-wow-delay="0.2s">
                         <!-- Post Thumbnail -->
                         <div class="post-thumbnail">
-                            <img src="img/blog-img/b4.jpg" alt="">
+                            <img src="img/blog-img/Francophonie.jpg" alt="">
                             <!-- Post Content -->
                             <div class="post-content d-flex align-items-center justify-content-between">
                                 <!-- Catagory -->
-                                <div class="post-tag"><a href="#">travel</a></div>
+                                <div class="post-tag"><a href="#">Francophonie</a></div>
                                 <!-- Headline -->
                                 <a href="#" class="headline">
-                                    <h5>How Did van Gogh’s Turbulent Mind Depict One of the Most Complex Concepts in Physics?</h5>
+                                    <h5>Semaine de la langue Francaise et de la Francophonie held at the French Institut of Djibouti.</h5>
                                 </a>
                                 <!-- Post Meta -->
                                 <div class="post-meta">
-                                    <p><a href="#" class="post-author">Katy Liu</a> on <a href="#" class="post-date">Sep 29, 2017 at 9:48 am</a></p>
+                                    <p><a href="#" class="post-author">Fatouma-Saredo</a> on <a href="#" class="post-date">Mar 21, 2019 at 8:00pm - 11:00pm</a></p>
                                 </div>
                             </div>
                         </div>
@@ -325,18 +315,18 @@
                     <div class="single-blog-post post-style-3 mt-50 wow fadeInUpBig" data-wow-delay="0.4s">
                         <!-- Post Thumbnail -->
                         <div class="post-thumbnail">
-                            <img src="img/blog-img/b5.jpg" alt="">
+                            <img src="img/blog-img/Djib_Tonic_MerRouge.jpg" alt="">
                             <!-- Post Content -->
                             <div class="post-content d-flex align-items-center justify-content-between">
                                 <!-- Catagory -->
-                                <div class="post-tag"><a href="#">travel</a></div>
+                                <div class="post-tag"><a href="#">Djib-Tonic</a></div>
                                 <!-- Headline -->
                                 <a href="#" class="headline">
-                                    <h5>How Did van Gogh’s Turbulent Mind Depict One of the Most Complex Concepts in Physics?</h5>
+                                    <h5>Djib-Tonic, a social event which was organized this time at the Restaurant Mer Rouge.</h5>
                                 </a>
                                 <!-- Post Meta -->
                                 <div class="post-meta">
-                                    <p><a href="#" class="post-author">Katy Liu</a> on <a href="#" class="post-date">Sep 29, 2017 at 9:48 am</a></p>
+                                    <p><a href="#" class="post-author">Fatouma-Saredo</a> on <a href="#" class="post-date">March 20, 2019 at 7 PM – 11:59 PM</a></p>
                                 </div>
                             </div>
                         </div>
@@ -347,18 +337,18 @@
                     <div class="single-blog-post post-style-3 mt-50 wow fadeInUpBig" data-wow-delay="0.6s">
                         <!-- Post Thumbnail -->
                         <div class="post-thumbnail">
-                            <img src="img/blog-img/b6.jpg" alt="">
+                            <img src="img/blog-img/gueska-africa-main.png" alt="">
                             <!-- Post Content -->
                             <div class="post-content d-flex align-items-center justify-content-between">
                                 <!-- Catagory -->
-                                <div class="post-tag"><a href="#">travel</a></div>
+                                <div class="post-tag"><a href="#">Gueska Africa Fashion</a></div>
                                 <!-- Headline -->
                                 <a href="#" class="headline">
-                                    <h5>How Did van Gogh’s Turbulent Mind Depict One of the Most Complex Concepts in Physics?</h5>
+                                    <h5>Gueska Africa Fashion Show is a runway which was organized at the Moulk Center.</h5>
                                 </a>
                                 <!-- Post Meta -->
                                 <div class="post-meta">
-                                    <p><a href="#" class="post-author">Katy Liu</a> on <a href="#" class="post-date">Sep 29, 2017 at 9:48 am</a></p>
+                                    <p><a href="#" class="post-author">Fatouma-Saredo</a> on <a href="#" class="post-date">March 7, 2019 at 7:30 PM – 11:30 PM</a></p>
                                 </div>
                             </div>
                         </div>
@@ -377,39 +367,23 @@
                         <div class="single-blog-post post-style-4 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.2s">
                             <!-- Post Thumbnail -->
                             <div class="post-thumbnail">
-                                <img src="img/blog-img/b18.jpg" alt="">
+                                <img src="img/blog-img/Women_Day.jpg" alt="">
                             </div>
                             <!-- Post Content -->
                             <div class="post-content">
                                 <a href="#" class="headline">
-                                    <h5>How Did van Gogh’s Turbulent Mind Depict One of the Most Complex Concepts in Physics?</h5>
+                                    <h5>International Women's Day</h5>
                                 </a>
-                                <p>Pick the yellow peach that looks like a sunset with its red, orange, and pink coat skin, peel it off with your teeth. Sink them into unripened...</p>
+                                <p>The Internatianl Women's Day hosted by the centre de Leadership et de l'entrepreneuriat with Breakfast and Panel of Discussion.</p>
                                 <!-- Post Meta -->
                                 <div class="post-meta">
-                                    <p><a href="#" class="post-author">Katy Liu</a> on <a href="#" class="post-date">Sep 29, 2017 at 9:48 am</a></p>
+                                    <p><a href="#" class="post-author">Mouna Ladieh</a> on <a href="#" class="post-date">March 9, 2019 at 8:30 AM – 12 PM</a></p>
                                 </div>
                             </div>
                         </div>
 
                         <!-- Single Blog Post -->
-                        <div class="single-blog-post post-style-4 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.3s">
-                            <!-- Post Thumbnail -->
-                            <div class="post-thumbnail">
-                                <img src="img/blog-img/b19.jpg" alt="">
-                            </div>
-                            <!-- Post Content -->
-                            <div class="post-content">
-                                <a href="#" class="headline">
-                                    <h5>How Did van Gogh’s Turbulent Mind Depict One of the Most Complex Concepts in Physics?</h5>
-                                </a>
-                                <p>Pick the yellow peach that looks like a sunset with its red, orange, and pink coat skin, peel it off with your teeth. Sink them into unripened...</p>
-                                <!-- Post Meta -->
-                                <div class="post-meta">
-                                    <p><a href="#" class="post-author">Katy Liu</a> on <a href="#" class="post-date">Sep 29, 2017 at 9:48 am</a></p>
-                                </div>
-                            </div>
-                        </div>
+
 
                     </div>
 

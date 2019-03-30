@@ -21,23 +21,31 @@
                                 <li class="title">Agenda</li>
 
                                 <li class="nav-item">
-                                    <a class="nav-link active" id="tab1" data-toggle="tab" href="#world-tab-1" role="tab" aria-controls="world-tab-1" aria-selected="true">All</a>
+                                    <a class="nav-link active" id="tab1" data-toggle="tab" href="#world-tab-1" role="tab" aria-controls="world-tab-1" aria-selected="true">Saturday</a>
                                 </li>
 
                                 <li class="nav-item">
-                                    <a class="nav-link" id="tab2" data-toggle="tab" href="#world-tab-2" role="tab" aria-controls="world-tab-2" aria-selected="false">Institut Francais (CCFAR)</a>
+                                    <a class="nav-link" id="tab2" data-toggle="tab" href="#world-tab-2" role="tab" aria-controls="world-tab-2" aria-selected="true">Sunday</a>
                                 </li>
 
                                 <li class="nav-item">
-                                    <a class="nav-link" id="tab3" data-toggle="tab" href="#world-tab-3" role="tab" aria-controls="world-tab-3" aria-selected="false">CCD</a>
+                                    <a class="nav-link" id="tab3" data-toggle="tab" href="#world-tab-3" role="tab" aria-controls="world-tab-3" aria-selected="false">Monday</a>
                                 </li>
 
                                 <li class="nav-item">
-                                    <a class="nav-link" id="tab4" data-toggle="tab" href="#world-tab-4" role="tab" aria-controls="world-tab-4" aria-selected="false">C.L.E</a>
+                                    <a class="nav-link" id="tab4" data-toggle="tab" href="#world-tab-4" role="tab" aria-controls="world-tab-4" aria-selected="false">Tuesday</a>
                                 </li>
 
                                 <li class="nav-item">
-                                    <a class="nav-link" id="tab5" data-toggle="tab" href="#world-tab-5" role="tab" aria-controls="world-tab-5" aria-selected="false">Palais Du Peuple</a>
+                                    <a class="nav-link" id="tab5" data-toggle="tab" href="#world-tab-5" role="tab" aria-controls="world-tab-5" aria-selected="false">Wednesday</a>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a class="nav-link" id="tab5" data-toggle="tab" href="#world-tab-5" role="tab" aria-controls="world-tab-5" aria-selected="false">Thursday</a>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a class="nav-link" id="tab5" data-toggle="tab" href="#world-tab-5" role="tab" aria-controls="world-tab-5" aria-selected="false">Friday</a>
                                 </li>
                             </ul>
 
@@ -53,9 +61,9 @@
                                         <!-- Post Content -->
                                         <div class="post-content">
                                             <a href="docs/Institut_prog_mars_avril_web.pdf" class="headline">
-                                                <h5>Program of the French Institut of Djibouti (CCFAR) from March to April </h5>
+                                                <h5>Program of the French Institut of Djibouti (IFD) from March to April </h5>
                                             </a>
-                                            <p>This is the program of the French Institut of Djibouti (CCFAR) during the period of March to April.</p>
+                                            <p>This is the program of the French Institut of Djibouti (IFD) during the period of March to April.</p>
                                             <!-- Post Meta
                                             <div class="post-meta">
                                                 <p><a href="#" class="post-author">Katy Liu</a> on <a href="#" class="post-date">Sep 29, 2017 at 9:48 am</a></p>
@@ -114,9 +122,9 @@
                                       <!-- Post Content -->
                                       <div class="post-content">
                                           <a href="docs/Institut_prog_mars_avril_web.pdf" class="headline">
-                                              <h5>Program of the French Institut of Djibouti (CCFAR) from March to April </h5>
+                                              <h5>Program of the French Institut of Djibouti (IFD) from March to April </h5>
                                           </a>
-                                          <p>This is the program of the French Institut of Djibouti (CCFAR) during the period of March to April.</p>
+                                          <p>This is the program of the French Institut of Djibouti (IFD) during the period of March to April.</p>
                                           <!-- Post Meta
                                           <div class="post-meta">
                                               <p><a href="#" class="post-author">Katy Liu</a> on <a href="#" class="post-date">Sep 29, 2017 at 9:48 am</a></p>

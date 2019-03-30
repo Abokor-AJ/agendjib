@@ -43,7 +43,7 @@
                     <div class="collapse navbar-collapse" id="worldNav">
                         <ul class="navbar-nav ml-auto">
                             <li class="nav-item active">
-                                <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
+                                <a class="nav-link" href="index.php" aria-selected="true">Home <span class="sr-only">(current)</span></a>
                             </li><!--
                             <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Categories</a>
@@ -54,7 +54,7 @@
                                     <a class="dropdown-item" href="contact.html">Contact</a>
                                 </div>
                             </li>-->
-                            <li class="nav-item">
+                            <li class="nav-item ">
                                 <a class="nav-link" href="agenda.php">Agenda</a>
                             </li>
                             <li class="nav-item">
@@ -63,9 +63,10 @@
                             <li class="nav-item">
                                 <a class="nav-link" href="videos.php">Videos</a>
                             </li>
+                            <!--
                             <li class="nav-item">
                                 <a class="nav-link" href="entrepreneurial.php">Entrepreneurial</a>
-                            </li>
+                            </li>-->
                             <li class="nav-item">
                                 <a class="nav-link" href="contact.php">Contact</a>
                             </li>
