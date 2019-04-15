@@ -105,11 +105,53 @@
                             </ul>
 
                             <div class="tab-content" id="myTabContent">
-
+                              <!-- Today's World-Tab-1  -->
                                 <div class="tab-pane fade show active" id="world-tab-1" role="tabpanel" aria-labelledby="tab1">
                                     <div class="row">
                                         <div class="col-12 col-md-6">
                                             <div class="world-catagory-slider owl-carousel wow fadeInUpBig" data-wow-delay="0.1s">
+
+                                                <!-- Single Blog Post -->
+                                                <div class="single-blog-post">
+                                                    <!-- Post Thumbnail -->
+                                                    <div class="post-thumbnail">
+                                                        <img src="img/blog-img/DERE1.jpg" alt="">
+                                                        <!-- Catagory -->
+                                                        <div class="post-cta"><a href="#">DERE Talk</a></div>
+                                                    </div>
+                                                    <!-- Post Content -->
+                                                    <div class="post-content">
+                                                        <a href="#" class="headline">
+                                                            <h5>DERE One Man Talk Edition 2019</h5>
+                                                        </a>
+                                                        <p>DERE offers an interactive platform for business leaders, civil society, academics, activists and the Djiboutian diaspora around the world.</p>
+                                                        <!-- Post Meta -->
+                                                        <div class="post-meta">
+                                                            <p><a class="post-author">March 31, 2019 at 8:00 am</a> | <a>Free Entrance</a> at <a>C.L.E</a></p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <!-- Single Blog Post -->
+                                                <div class="single-blog-post">
+                                                    <!-- Post Thumbnail -->
+                                                    <div class="post-thumbnail">
+                                                        <img src="img/blog-img/cinema.jpg" alt="Cinema">
+                                                        <!-- Catagory -->
+                                                        <div class="post-cta"><a href="#">Cinema</a></div>
+                                                    </div>
+                                                    <!-- Post Content -->
+                                                    <div class="post-content">
+                                                        <a href="#" class="headline">
+                                                            <h5>Cinéma | Persepolis</h5>
+                                                        </a>
+                                                        <p>A film about a girl Marjane, think about the future and dream of being a prophet saving the world.</p>
+                                                        <!-- Post Meta -->
+                                                        <div class="post-meta">
+                                                            <p><a href="#" class="post-author">Fatouma-Saredo</a> on <a href="#" class="post-date">March 31, 2019 at 7:00 pm - 9:00 pm</a></p>
+                                                        </div>
+                                                    </div>
+                                                </div>
 
                                                 <!-- Single Blog Post -->
                                                 <div class="single-blog-post">
@@ -128,27 +170,6 @@
                                                         <!-- Post Meta -->
                                                         <div class="post-meta">
                                                             <p><a href="#" class="post-author">Fatouma-Saredo</a> on <a href="#" class="post-date">Thursday April 4, 2019 at 7 PM – 10 PM</a></p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-                                                <!-- Single Blog Post -->
-                                                <div class="single-blog-post">
-                                                    <!-- Post Thumbnail -->
-                                                    <div class="post-thumbnail">
-                                                        <img src="img/blog-img/DERE1.jpg" alt="">
-                                                        <!-- Catagory -->
-                                                        <div class="post-cta"><a href="#">DERE Talk</a></div>
-                                                    </div>
-                                                    <!-- Post Content -->
-                                                    <div class="post-content">
-                                                        <a href="#" class="headline">
-                                                            <h5>DERE One Man Talk Edition 2019</h5>
-                                                        </a>
-                                                        <p>DERE offers an interactive platform for business leaders, civil society, academics, activists and the Djiboutian diaspora around the world.</p>
-                                                        <!-- Post Meta -->
-                                                        <div class="post-meta">
-                                                            <p><a href="#" class="post-author">Mouna Ladieh</a> on <a href="single-blog.php" class="post-date">March 31, 2019 at 8:00 am</a></p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -200,24 +221,6 @@
 
                                         <div class="col-12 col-md-6">
                                             <!-- Single Blog Post -->
-                                            <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.2s">
-                                                <!-- Post Thumbnail -->
-                                                <div class="post-thumbnail">
-                                                    <img src="img/blog-img/Autisme.jpg" alt="">
-                                                </div>
-                                                <!-- Post Content -->
-                                                <div class="post-content">
-                                                    <a href="#" class="headline">
-                                                        <h5>Gala evening for World Autism Day</h5>
-                                                    </a>
-                                                    <!-- Post Meta -->
-                                                    <div class="post-meta">
-                                                        <p><a href="#" class="post-author">Fatouma-Saredo</a> on <a href="#" class="post-date">Thursday April 4, 2019 at 7 PM – 10 PM</a></p>
-                                                    </div>
-                                                </div>
-                                            </div>
-
-                                            <!-- Single Blog Post -->
                                             <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.3s">
                                                 <!-- Post Thumbnail -->
                                                 <div class="post-thumbnail">
@@ -231,6 +234,41 @@
                                                     <!-- Post Meta -->
                                                     <div class="post-meta">
                                                         <p><a href="#" class="post-author">Mouna Ladieh</a> on <a href="#" class="post-date">March 31, 2019 at 8:00 am</a></p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- Single Blog Post -->
+                                            <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.3s">
+                                                <!-- Post Thumbnail -->
+                                                <div class="post-thumbnail">
+                                                    <img src="img/blog-img/cinema.jpg" alt="">
+                                                </div>
+                                                <!-- Post Content -->
+                                                <div class="post-content">
+                                                    <a href="#" class="headline">
+                                                        <h5>Cinéma | Persepolis</h5>
+                                                    </a>
+                                                    <!-- Post Meta -->
+                                                    <div class="post-meta">
+                                                        <p><a href="#" class="post-author">Mouna Ladieh</a> on <a href="#" class="post-date">March 31, 2019 at 7:00 pm - 9:00 pm</a></p>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <!-- Single Blog Post -->
+                                            <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.2s">
+                                                <!-- Post Thumbnail -->
+                                                <div class="post-thumbnail">
+                                                    <img src="img/blog-img/Autisme.jpg" alt="">
+                                                </div>
+                                                <!-- Post Content -->
+                                                <div class="post-content">
+                                                    <a href="#" class="headline">
+                                                        <h5>Gala evening for World Autism Day</h5>
+                                                    </a>
+                                                    <!-- Post Meta -->
+                                                    <div class="post-meta">
+                                                        <p><a href="#" class="post-author">Fatouma-Saredo</a> on <a href="#" class="post-date">Thursday April 4, 2019 at 7 PM – 10 PM</a></p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -273,6 +311,129 @@
                                         </div>
                                     </div>
                                 </div>
+                                <!-- Tomorrow's World-Tab-2 -->
+                                  <div class="tab-pane fade show active" id="world-tab-2" role="tabpanel" aria-labelledby="tab2">
+                                      <div class="row">
+                                          <div class="col-12 col-md-6">
+                                              <div class="world-catagory-slider owl-carousel wow fadeInUpBig" data-wow-delay="0.1s">
+
+                                                  <!-- Single Blog Post -->
+                                                  <div class="single-blog-post">
+                                                      <!-- Post Thumbnail -->
+                                                      <div class="post-thumbnail">
+                                                          <img src="img/blog-img/Atelier.jpg" alt="">
+                                                          <!-- Catagory -->
+                                                          <div class="post-cta"><a href="#">Ateliers</a></div>
+                                                      </div>
+                                                      <!-- Post Content -->
+                                                      <div class="post-content">
+                                                          <a href="#" class="headline">
+                                                              <h5>Ateliers pour petits et grands</h5>
+                                                          </a>
+                                                          <p>La médiathèque de l’Institut français de Djibouti vous propose des ateliers gratuits pour petits et grands.</p>
+                                                          <!-- Post Meta -->
+                                                          <div class="post-meta">
+                                                              <p><a href="#" class="post-author">Mouna Ladieh</a> on <a href="single-blog.php" class="post-date">April 1, 2019 at 5:30 PM – 6:45 PM</a></p>
+                                                          </div>
+                                                      </div>
+                                                  </div>
+
+                                              </div>
+                                          </div>
+
+                                          <div class="col-12 col-md-6">
+                                              <!-- Single Blog Post -->
+                                              <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.3s">
+                                                  <!-- Post Thumbnail -->
+                                                  <div class="post-thumbnail">
+                                                      <img src="img/blog-img/DERE1.jpg" alt="">
+                                                  </div>
+                                                  <!-- Post Content -->
+                                                  <div class="post-content">
+                                                      <a href="#" class="headline">
+                                                          <h5>DERE One Man Talk Edition 2019</h5>
+                                                      </a>
+                                                      <!-- Post Meta -->
+                                                      <div class="post-meta">
+                                                          <p><a href="#" class="post-author">Mouna Ladieh</a> on <a href="#" class="post-date">March 31, 2019 at 8:00 am</a></p>
+                                                      </div>
+                                                  </div>
+                                              </div>
+                                              <!-- Single Blog Post -->
+                                              <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.3s">
+                                                  <!-- Post Thumbnail -->
+                                                  <div class="post-thumbnail">
+                                                      <img src="img/blog-img/cinema.jpg" alt="">
+                                                  </div>
+                                                  <!-- Post Content -->
+                                                  <div class="post-content">
+                                                      <a href="#" class="headline">
+                                                          <h5>Cinéma | Persepolis</h5>
+                                                      </a>
+                                                      <!-- Post Meta -->
+                                                      <div class="post-meta">
+                                                          <p><a href="#" class="post-author">Mouna Ladieh</a> on <a href="#" class="post-date">March 31, 2019 at 7:00 pm - 9:00 pm</a></p>
+                                                      </div>
+                                                  </div>
+                                              </div>
+
+                                              <!-- Single Blog Post -->
+                                              <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.2s">
+                                                  <!-- Post Thumbnail -->
+                                                  <div class="post-thumbnail">
+                                                      <img src="img/blog-img/Autisme.jpg" alt="">
+                                                  </div>
+                                                  <!-- Post Content -->
+                                                  <div class="post-content">
+                                                      <a href="#" class="headline">
+                                                          <h5>Gala evening for World Autism Day</h5>
+                                                      </a>
+                                                      <!-- Post Meta -->
+                                                      <div class="post-meta">
+                                                          <p><a href="#" class="post-author">Fatouma-Saredo</a> on <a href="#" class="post-date">Thursday April 4, 2019 at 7 PM – 10 PM</a></p>
+                                                      </div>
+                                                  </div>
+                                              </div>
+
+                                              <!-- Single Blog Post -->
+                                              <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.4s">
+                                                  <!-- Post Thumbnail -->
+                                                  <div class="post-thumbnail">
+                                                      <img src="img/blog-img/Beach-Party-Kem.jpg" alt="">
+                                                  </div>
+                                                  <!-- Post Content -->
+                                                  <div class="post-content">
+                                                      <a href="#" class="headline">
+                                                          <h5>Beach Party Hosted by Djibouti Palace Kempinski</h5>
+                                                      </a>
+                                                      <!-- Post Meta -->
+                                                      <div class="post-meta">
+                                                          <p><a href="#" class="post-author">Mouna Ladieh</a> on <a href="#" class="post-date">Thursday, April 4, 2019 at 10 PM – 4 AM</a></p>
+                                                      </div>
+                                                  </div>
+                                              </div>
+
+                                              <!-- Single Blog Post -->
+                                              <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.5s">
+                                                  <!-- Post Thumbnail -->
+                                                  <div class="post-thumbnail">
+                                                      <img src="img/blog-img/MerRouge.jpg" alt="">
+                                                  </div>
+                                                  <!-- Post Content -->
+                                                  <div class="post-content">
+                                                      <a href="#" class="headline">
+                                                          <h5>A Dancing Party Animated by our DJ.</h5>
+                                                      </a>
+                                                      <!-- Post Meta -->
+                                                      <div class="post-meta">
+                                                          <p><a href="#" class="post-author">Fatouma-Saredo</a> on <a href="#" class="post-date">Mar 28, 2019 at 20:00 pm</a></p>
+                                                      </div>
+                                                  </div>
+                                              </div>
+                                          </div>
+                                      </div>
+                                  </div>
+                                  <!-- After Tomorrow's World-tab-3 -->
 
                             </div>
                         </div>

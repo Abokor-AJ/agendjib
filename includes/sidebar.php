@@ -8,10 +8,11 @@
         <div class="sidebar-widget-area">
             <h5 class="title">About AgenDjib</h5>
             <div class="widget-content">
-                <p>Le portail web de référence sur l'actualité culturelle, artistique et sociale de Djibouti.</p>
+                <p>The reference web portal on the cultural, artistic and social news of Djibouti.</p>
+                <!--<p>Le portail web de référence sur l'actualité culturelle, artistique et sociale de Djibouti.</p>-->
             </div>
         </div>
-        
+
         <!-- Widget Area -->
 
         <!-- Widget Area -->
