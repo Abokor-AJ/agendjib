@@ -6,10 +6,9 @@
     <div class="post-sidebar-area wow fadeInUpBig" data-wow-delay="0.2s">
         <!-- Widget Area -->
         <div class="sidebar-widget-area">
-            <h5 class="title">About AgenDjib</h5>
+            <h5 class="title">A propos D'AgenDjib</h5>
             <div class="widget-content">
-                <p>The reference web portal on the cultural, artistic and social news of Djibouti.</p>
-                <!--<p>Le portail web de référence sur l'actualité culturelle, artistique et sociale de Djibouti.</p>-->
+                <p>Le portail web de référence sur l'actualité culturelle, artistique et sociale de Djibouti.</p>
             </div>
         </div>
 
@@ -18,7 +17,7 @@
         <!-- Widget Area -->
 
         <div class="sidebar-widget-area">
-            <h5 class="title">Stay Connected</h5>
+            <h5 class="title">Restez Connecter</h5>
             <div class="widget-content">
                 <div class="social-area d-flex"> <!-- justify-content-between -->
                     <a href="https://www.facebook.com/agendjib/"><i class="fa fa-facebook"></i></a>
@@ -28,7 +27,7 @@
         </div>
         <!-- Widget Area -->
         <div class="sidebar-widget-area">
-            <h5 class="title">Today’s Pick</h5>
+            <h5 class="title">Le choix du jour</h5>
             <div class="widget-content">
                 <!-- Single Blog Post -->
                 <div class="single-blog-post todays-pick">
@@ -39,7 +38,7 @@
                     <!-- Post Content -->
                     <div class="post-content px-0 pb-0">
                         <a href="#" class="headline">
-                            <h5>The concert show of the young talented rwandan singer hosted at the French Institut of Djibouti.</h5>
+                            <h5>Le concert spectacle de la jeune chanteuse rwandaise talentueuse a eu lieu à l'Institut français de Djibouti.</h5>
                         </a>
                     </div>
                 </div>

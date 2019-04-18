@@ -80,18 +80,18 @@
                         <!-- Catagory Area -->
                         <div class="world-catagory-area">
                             <ul class="nav nav-tabs" id="myTab" role="tablist">
-                                <li class="title">What's Trending</li>
+                                <li class="title">À LA UNE</li>
 
                                 <li class="nav-item">
-                                    <a class="nav-link active" id="tab1" data-toggle="tab" href="#world-tab-1" role="tab" aria-controls="world-tab-1" aria-selected="true">Today's</a>
+                                    <a class="nav-link active" id="tab1" data-toggle="tab" href="#world-tab-1" role="tab" aria-controls="world-tab-1" aria-selected="true">AUJOURD'HUI</a>
                                 </li>
 
                                 <li class="nav-item">
-                                    <a class="nav-link" id="tab2" data-toggle="tab" href="#world-tab-2" role="tab" aria-controls="world-tab-2" aria-selected="false">Tomorrow's</a>
+                                    <a class="nav-link" id="tab2" data-toggle="tab" href="#world-tab-2" role="tab" aria-controls="world-tab-2" aria-selected="false">DEMAIN</a>
                                 </li>
 
                                 <li class="nav-item">
-                                    <a class="nav-link" id="tab3" data-toggle="tab" href="#world-tab-3" role="tab" aria-controls="world-tab-3" aria-selected="false">After Tommorow's</a>
+                                    <a class="nav-link" id="tab3" data-toggle="tab" href="#world-tab-3" role="tab" aria-controls="world-tab-3" aria-selected="false">APRÈS DEMAIN</a>
                                 </li>
                                 <!--
                                 <li class="nav-item dropdown">

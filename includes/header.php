@@ -1,3 +1,7 @@
+<?php
+  include 'core/connection.php';
+?>
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -61,7 +65,7 @@
                                 <a class="nav-link" href="galerie.php">Galerie</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="videos.php">Videos</a>
+                                <a class="nav-link" href="videos.php">Vidéos</a>
                             </li>
                             <!--
                             <li class="nav-item">
